@@ -1,1 +1,0 @@
-# Nasa-human-powered-rover
